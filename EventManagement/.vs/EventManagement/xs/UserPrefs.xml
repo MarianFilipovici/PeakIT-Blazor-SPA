@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{32A8F122-D09B-4C11-84B6-486A2F185CB7}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Pages/AddEvent.razor" Line="1" Column="1" />
+      <File FileName="Pages/Events.razor.cs" Line="20" Column="37" />
+      <File FileName="Data/EventDefinition.cs" Line="1" Column="1" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EventManagement" expanded="True">
+            <Node name="EventManagement" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="AddEvent.razor" expanded="True" />
+                <Node name="EditEvent.razor" expanded="True" />
+                <Node name="Events.razor" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EventManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
